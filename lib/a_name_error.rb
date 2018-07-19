@@ -1,4 +1,4 @@
-learn
-"hello world"
+learn = "hello world"
 
-hello_world
+
+hello_world = "anyValue"
